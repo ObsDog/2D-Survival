@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 941f0b2339bd06248a9025676e53b9b9, type: 3}
+  m_Name: Campfire
+  m_EditorClassIdentifier: 
+  type: 0
+  action: 7
+  hungerAmount: 0
+  thirstAmount: 0
+  attackDamage: 0
+  range: {x: 5, y: 4}
+  dropPrefab: {fileID: 0}
+  <Name>k__BackingField: Campfire
+  <Tile>k__BackingField: {fileID: 0}
+  <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <PreviewSprite>k__BackingField: {fileID: 880687569, guid: 58da2c0881f54d8408c52f47c05ea2f0, type: 3}
+  <GameObject>k__BackingField: {fileID: 4807536655132887243, guid: 44bbf2a3ce5894d4b97b06727583b7c1, type: 3}
+  stackable: 0
+  image: {fileID: 880687569, guid: 58da2c0881f54d8408c52f47c05ea2f0, type: 3}

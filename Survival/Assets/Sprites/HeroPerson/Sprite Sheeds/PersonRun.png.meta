@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: c5d74d1a4797fb642b52b7c58dfda149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -556703401956827027
+    second: PersonRun_0
+  - first:
+      213: 1450398691178820956
+    second: PersonRun_1
+  - first:
+      213: 2193054389382720381
+    second: PersonRun_2
+  - first:
+      213: 4872096472270428178
+    second: PersonRun_3
+  - first:
+      213: 9214203678056453778
+    second: PersonRun_4
+  - first:
+      213: -7842880154667983867
+    second: PersonRun_5
+  - first:
+      213: 879437885977440867
+    second: PersonRun_6
+  - first:
+      213: 3792416202957287632
+    second: PersonRun_7
+  - first:
+      213: -5168206373437752450
+    second: PersonRun_8
+  - first:
+      213: -2413440029783851833
+    second: PersonRun_9
+  - first:
+      213: 6654863191932767659
+    second: PersonRun_10
+  - first:
+      213: 7753339728588935928
+    second: PersonRun_11
+  - first:
+      213: -2894117742366162194
+    second: PersonRun_12
+  - first:
+      213: -5043131962767147876
+    second: PersonRun_13
+  - first:
+      213: 4807122839933207279
+    second: PersonRun_14
+  - first:
+      213: 4133033664544746622
+    second: PersonRun_15
+  - first:
+      213: -6354599937746722276
+    second: PersonRun_16
+  - first:
+      213: -8394277314815349040
+    second: PersonRun_17
+  - first:
+      213: 7371747367912894532
+    second: PersonRun_18
+  - first:
+      213: -5529520853794535412
+    second: PersonRun_19
+  - first:
+      213: 2051138092293953214
+    second: PersonRun_20
+  - first:
+      213: -7026122837141682684
+    second: PersonRun_21
+  - first:
+      213: -6025774961088495884
+    second: PersonRun_22
+  - first:
+      213: 2955801077768804543
+    second: PersonRun_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonRun_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 106
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ac1994313648f0800000000000000
+      internalID: -556703401956827027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 106
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b762dce9d02410800000000000000
+      internalID: 1450398691178820956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 106
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba44c095b4f6e10800000000000000
+      internalID: 2193054389382720381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 106
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218dc159de92d9340800000000000000
+      internalID: 4872096472270428178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29617ae1d6d6fdf70800000000000000
+      internalID: 9214203678056453778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 106
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdd0d7d0e782390800000000000000
+      internalID: -7842880154667983867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b4bb0914643c00800000000000000
+      internalID: 879437885977440867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 71
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d074b9817e51a430800000000000000
+      internalID: 3792416202957287632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 71
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b35598fa7d648b0800000000000000
+      internalID: -5168206373437752450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7602741db18ed0800000000000000
+      internalID: -2413440029783851833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad89f760d2da5c50800000000000000
+      internalID: 6654863191932767659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 71
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f297797765699b60800000000000000
+      internalID: 7753339728588935928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20c1c3f3706d7d0800000000000000
+      internalID: -2894117742366162194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c78d31332330ab0800000000000000
+      internalID: -5043131962767147876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 37
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c2e1f0c456b240800000000000000
+      internalID: 4807122839933207279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 36
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cabeb583c7b5930800000000000000
+      internalID: 4133033664544746622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 36
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1223e4560defc7a0800000000000000
+      internalID: -6354599937746722276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deaf48c149818b80800000000000000
+      internalID: -8394277314815349040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407e568c25bd4660800000000000000
+      internalID: 7371747367912894532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08467384123343b0800000000000000
+      internalID: -5529520853794535412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb614704a3b177c10800000000000000
+      internalID: 2051138092293953214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40609ef61823e7e90800000000000000
+      internalID: -7026122837141682684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe70eb4995206ca0800000000000000
+      internalID: -6025774961088495884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonRun_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb850237b6d150920800000000000000
+      internalID: 2955801077768804543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PersonRun_0: -556703401956827027
+      PersonRun_1: 1450398691178820956
+      PersonRun_10: 6654863191932767659
+      PersonRun_11: 7753339728588935928
+      PersonRun_12: -2894117742366162194
+      PersonRun_13: -5043131962767147876
+      PersonRun_14: 4807122839933207279
+      PersonRun_15: 4133033664544746622
+      PersonRun_16: -6354599937746722276
+      PersonRun_17: -8394277314815349040
+      PersonRun_18: 7371747367912894532
+      PersonRun_19: -5529520853794535412
+      PersonRun_2: 2193054389382720381
+      PersonRun_20: 2051138092293953214
+      PersonRun_21: -7026122837141682684
+      PersonRun_22: -6025774961088495884
+      PersonRun_23: 2955801077768804543
+      PersonRun_3: 4872096472270428178
+      PersonRun_4: 9214203678056453778
+      PersonRun_5: -7842880154667983867
+      PersonRun_6: 879437885977440867
+      PersonRun_7: 3792416202957287632
+      PersonRun_8: -5168206373437752450
+      PersonRun_9: -2413440029783851833
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
